@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Feed de Noticias sobre Valorant</title>
+  <link href="RafaelGemezCrespin.github.io"/>
+  <author>
+    <name>Rafael Gemez Crespín</name>
+  </author>
+  <id>https://RafaelGemezCrespin.github.io</id>
+  <updated>2024-02-24T12:00:00Z</updated>
+  <category term="Valorant"/>
+  <rights>Derechos del Feed</rights>
+
+  
+
+  <entry>
+    <title>Última-noticia-de-Valorant</title>
+    <id>http://Valorant.com1</id>
+    <updated>2024-02-24T12:00:00Z</updated>
+    <link href="https://playvalorant.com/es-es/news/"/>
+    <author>
+      <name>a23gecrra@iesgrancapitan.org(Rafael Gemez Crespín)</name>
+      <uri>https://playvalorant.com/es-es/news/</uri>
+    </author>
+    <content type="html">https://playvalorant.com/es-es/news/</content>
+    <summary>Noticia de valorant 1</summary>
+  </entry>
+  
+
+  <entry>
+    <title>Otra-notoicia-de-valorant</title>
+    <id>http://Valorant.com2</id>
+    <updated>2024-02-24T12:00:00Z</updated>
+    <link href="https://www.berlitz.com/es-us/blog/dias-de-la-semana-ingles"/>
+    <author>
+      <name>a23gecrra@iesgrancapitan.org(Rafael Gemez Crespin)</name>
+      <uri>https://www.berlitz.com/es-us/blog/dias-de-la-semana-ingles/</uri>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <h2>Una noticia sobre Valorant</h2>
+        <p>Minutes ago, we shared an important update with Rioters about the future of Riot Games. Here’s what these changes mean for our games and what players can expect from us going forward: https://riot.com/3Odehsi</p>
+        <p>La organización norteamericana de deportes electrónicos TSM ha anunciado cambios en su lista de VALORANT al firmar un contrato con Kanpeki. El estadounidense de 25 años reemplazó a Hazed, quien dejó el equipo apenas dos meses después de regresar.</p>
+      </div>
+    </content>
+    <summary>Noticia de valorant 2</summary>
+  </entry>
+  
+
+  <entry>
+    <title>Más-noticias-de-valorant</title>
+    <id>http://Valorant.com3</id>
+    <updated>2024-02-24T12:00:00Z</updated>
+    <link href="https://es.egw.news/valorant/list-news/"/>
+    <author>
+      <name>a23gecrra@iesgrancapitan.org(Rafael Gemez Crespin)</name>
+      <uri>https://es.egw.news/valorant/list-news/</uri>
+    </author>
+    <content type="html">https://es.egw.news/valorant/list-news/</content>
+    <summary>Noticia de valorant 3</summary>
+  </entry>
+  
+
+  <entry>
+    <title>Una-última-noticia-de-valorant</title>
+    <id>http://Valorant.com4</id>
+    <updated>2024-02-24T12:00:00Z</updated>
+    <link href="https://www.thespike.gg/es"/>
+    <author>
+      <name>a23gecrra@iesgrancapitan.org(Rafael Gemez Crespin)</name>
+      <uri>https://www.thespike.gg/es</uri>
+    </author>
+    <content type="html">https://www.thespike.gg/es</content>
+    <summary>Noticia de valorant 4</summary>
+  </entry>
+  
+</feed>

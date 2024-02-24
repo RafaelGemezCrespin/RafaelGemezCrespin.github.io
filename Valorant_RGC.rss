@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+  <channel>
+    <title>Novedades Valorant </title>
+    <link>https://RafaelGemezCrespin.github.io/</link>
+    <description>Últimas noticias sobre novedades de valorant</description>
+    <category>Videojuegos</category>
+    <language>es-ES</language>
+    <lastBuildDate>Sat, 24 Feb 2024 16:00:00 GMT</lastBuildDate>
+    <managingEditor>a23gecrra@iesgrancapitan.org(Rafael Gemez Crespín)</managingEditor>
+    <image>
+      <url>https://RafaelGemezCrespin.github.io/img/chamber.jpg</url>
+      <title>Chamber</title>
+      <link>https://RafaelGemezCrespin.github.io/</link>
+    </image>
+    <skipHours>
+      <hour>0</hour>
+      <hour>1</hour>
+      <hour>2</hour>
+      <hour>3</hour>
+      <hour>4</hour>
+      <hour>5</hour>
+    </skipHours>
+    <skipDays>
+      <day>Saturday</day>
+      <day>Sunday</day>
+    </skipDays>
+    <item>
+      <title>Nuevas noticias de Valorant</title>
+      <link>https://playvalorant.com/es-es/news/</link>
+      <description>Última actualización en vivo, noticias, etc...</description>
+      <author>a23gecrra@iesgrancapitan.org(Rafael Gemez Crespín)</author>
+      <pubDate>Sat, 24 Feb 2024 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Noticias Valorant Jueves 22</title>
+      <link>https://vandal.elespanol.com/noticias/pc/valorant/78531</link>
+      <description>Últimas noticias de Valorant, novedades y actualizaciones</description>
+      <author>a23gecrra@iesgrancapitan.org(Rafael Gemez Crespín)</author>
+      <pubDate>Mon, 19 Feb 2024 20:00:00 GMT</pubDate>
+    </item>
+        <item>
+      <title>Lo último sobre valorant</title>
+      <link>https://es.egw.news/valorant/list-news</link>
+      <description>https://as.com/meristation/juegos/valorant/noticias/</description>
+      <author>a23gecrra@iesgrancapitan.org(Rafael Gemez Crespín)</author>
+      <pubDate>Mon, 19 Feb 2024 20:00:00 GMT</pubDate>
+    </item>
+        <item>
+      <title>Últimos eventos y competitivo de Valorant</title>
+      <link>https://www.thespike.gg/es</link>
+      <description>Lo último en competitivo de Valorant</description>
+      <author>a23gecrra@iesgrancapitan.org(Rafael Gemez Crespín)</author>
+      <pubDate>Mon, 19 Feb 2024 20:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
